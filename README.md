@@ -1,7 +1,7 @@
 # Acumatica Assessment
 This is a python+selenium project for automation testing for Login and Register functionality.
 
-Website used for testing is - https://practice.expandtesting.com
+Websites used for testing is - https://practice.expandtesting.com/login and https://practice.expandtesting.com/register
 
 ### Dependencies:
 * python 3
