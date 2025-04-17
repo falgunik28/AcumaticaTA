@@ -1,0 +1,19 @@
+{
+    "chrome_driver_path": "C:\\Users\\falgu\\PycharmProjects\\chromedriver-win64\\chromedriver.exe",
+    "ff_driver_path": "C:\\Program Files\\Google\\FF\\Application\\ff.exe",
+    "browser": "chrome",
+    "website_link":"https://practice.expandtesting.com/",
+    "valid_user":"practice",
+    "valid_password":"SuperSecretPassword!",
+    "invalid_username":"pract",
+    "invalid_password": "SuperPassword!",
+    "case_sensitive_user":"PracTiSe",
+    "case_sensitive_password":"superSECRETpractice!",
+    "special_character_username":"practice$&@",
+    "special_character_password": "SuperSecret@practice!",
+    "valid_new_password": "Secure_Testing1",
+    "confirm_password": "test321",
+    "long_user": "abcdefghijklmnopqrstuvwxyzabcdqwertyuiopasdfghadfghjklxcvbnmsdfghjkfghjkdfghjkdfghjkdfghj",
+    "error_msg": "Invalid username. Usernames can only contain lowercase letters, numbers, and single hyphens, must be between 3 and 39 characters, and cannot start or end with a hyphen.",
+    "success_msg": "Successfully registered, you can log in now."
+}
